@@ -1,0 +1,328 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "imagem": "imagemTenis",
+      "texto": "Tenis bacana",
+      "preco": 100
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "VBiohGd"
+    },
+    {
+      "imagem": 4,
+      "texto": "Mesa chique",
+      "preco": 200,
+      "id": "vV8oimN"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "EteDYb6"
+    },
+    {
+      "imagem": 4,
+      "texto": "Mesa chique",
+      "preco": 200,
+      "id": "6mMjsxa"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "XnTz9NO"
+    },
+    {
+      "imagem": 6,
+      "texto": "Cadeira de trabalho",
+      "preco": 150,
+      "id": "aH8REWH"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "pSWHClV"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "4lO7x4z"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "3J1Y5WU"
+    },
+    {
+      "imagem": 4,
+      "texto": "Mesa chique",
+      "preco": 200,
+      "id": "wndOsU9"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "ewm09tG"
+    },
+    {
+      "imagem": 6,
+      "texto": "Cadeira de trabalho",
+      "preco": 150,
+      "id": "YkcwbaX"
+    },
+    {
+      "imagem": 7,
+      "texto": "Sofá confortavel",
+      "preco": 250,
+      "id": "yIUCLf5"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "oOS2AfC"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "cXVU0Ww"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "hh9iOK2"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "sLRuNp0"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "tZIQ6Xk"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "mzqODEA"
+    },
+    {
+      "imagem": 4,
+      "texto": "Mesa chique",
+      "preco": 200,
+      "id": "G-JOVaB"
+    },
+    {
+      "imagem": 6,
+      "texto": "Cadeira de trabalho",
+      "preco": 150,
+      "id": "aqmN-25"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "3NZtPhK"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "v8bvu_3"
+    },
+    {
+      "imagem": 4,
+      "texto": "Mesa chique",
+      "preco": 200,
+      "id": "n2o2KSS"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "2t0_g8n"
+    },
+    {
+      "imagem": 7,
+      "texto": "Sofá confortavel",
+      "preco": 250,
+      "id": "iR2-Mu2"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "DzXUNJt"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "GRAr9vN"
+    },
+    {
+      "imagem": 4,
+      "texto": "Mesa chique",
+      "preco": 200,
+      "id": "XRCuVmd"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "P3aM07M"
+    },
+    {
+      "imagem": 6,
+      "texto": "Cadeira de trabalho",
+      "preco": 150,
+      "id": "X_9nAvU"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "YMPkVrg"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "FvFoBcj"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "i5zWSxs"
+    },
+    {
+      "imagem": 4,
+      "texto": "Mesa chique",
+      "preco": 200,
+      "id": "mTCcUXX"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "vf_-Opx"
+    },
+    {
+      "imagem": 6,
+      "texto": "Cadeira de trabalho",
+      "preco": 150,
+      "id": "UaaWVBW"
+    },
+    {
+      "imagem": 7,
+      "texto": "Sofá confortavel",
+      "preco": 250,
+      "id": "oA_SuEx"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "iTqUHZz"
+    },
+    {
+      "imagem": 4,
+      "texto": "Mesa chique",
+      "preco": 200,
+      "id": "-wcbrTM"
+    },
+    {
+      "imagem": 6,
+      "texto": "Cadeira de trabalho",
+      "preco": 150,
+      "id": "88qc_eg"
+    },
+    {
+      "imagem": 7,
+      "texto": "Sofá confortavel",
+      "preco": 250,
+      "id": "PyKB00l"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "Lz2JXR4"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "zv6CDY6"
+    },
+    {
+      "imagem": 7,
+      "texto": "Sofá confortavel",
+      "preco": 250,
+      "id": "ztFT2t-"
+    },
+    {
+      "imagem": 4,
+      "texto": "Mesa chique",
+      "preco": 200,
+      "id": "B1oNi9U"
+    },
+    {
+      "imagem": 6,
+      "texto": "Cadeira de trabalho",
+      "preco": 150,
+      "id": "x_KUZPB"
+    },
+    {
+      "imagem": 7,
+      "texto": "Sofá confortavel",
+      "preco": 250,
+      "id": "d5kA3DE"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "w8NpESs"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "D5Dr-wA"
+    },
+    {
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80,
+      "id": "2dVulNf"
+    },
+    {
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100,
+      "id": "vWwH3MM"
+    },
+    {
+      "imagem": 6,
+      "texto": "Cadeira de trabalho",
+      "preco": 150,
+      "id": "69t5pMh"
+    }
+  ]
+}
